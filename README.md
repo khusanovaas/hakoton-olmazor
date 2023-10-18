@@ -1,5 +1,5 @@
 # hakoton-olmazor
-## Deploy: https://hakoton-olmazor.netlify.app/
+
 
 
 <br>
